@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/paulina/Desktop/sunshine/app/build/intermediates/pre-dexed/debug/classes-983ba7bd6aefd838c7e56df0aa7a0550e00384fe.jar"
+        jar="/Users/paulina/Desktop/sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/paulina/Desktop/sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-2cf132cd22baf94c643292440356842268e2474d.jar"
+        jar="/Users/paulina/Desktop/sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/paulina/Desktop/sunshine/app/build/intermediates/pre-dexed/debug/classes-71dbdd37de8caa4e7a4bcfb764f52cfe2b9d77dc.jar"
+        jar="/Users/paulina/Desktop/sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/Users/paulina/Desktop/sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-dcb4e2541b82f29136f43e1d31788c8a59f322ae.jar"
+        jar="/Users/paulina/Desktop/Installed/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>
